@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/47d69d44-ff0e-4c10-b8b3-f170b3ef4e57/resourceGroups/bradportfolio2/providers/Microsoft.Web/sites/bradport"
+}
